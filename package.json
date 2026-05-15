@@ -1,0 +1,8 @@
+{
+  "name": "vidya-vahini-android",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo Building Android...",
+    "dev": "echo Starting Android Preview..."
+  }
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Vidya-Vahini</string>
+    <string name="tagline">Waze for Rural Students</string>
+    <string name="live_badge">LIVE</string>
+    <string name="ping_label">Bus Crossed a Stop? Tap to Ping!</string>
+    <string name="report_breakdown">REPORT BREAKDOWN</string>
+    <string name="reached_safely">I\'VE REACHED SAFELY</string>
+</resources>
