@@ -28,7 +28,7 @@ class DelayAdvisorActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityDelayAdvisorBinding
     // Ensure this API Key is valid and has "Generative Language API" enabled in Google Cloud Console
-    private val apiKey = "AIzaSyBIiVlyJ9mvsFI6hsqQ7_8bL1Ch7VKw8bs"
+    private val apiKey = BuildConfig.GEMINI_API_KEY
     private var parentPhone: String? = null
     private var apiCalled = false
 
